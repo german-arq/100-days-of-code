@@ -16,3 +16,22 @@
 **Thoughts:** Too much python! I need to get acustom to C# way
 
 **Link to work:** Private project
+
+### Sick!!!!!!!!!!!!
+
+### Day 3: Enero 30, 2021
+
+**Today's Progress**: Hands on REX Framework for Revit Plugins
+
+**Thoughts:** Understanding the data flow
+
+**Link to work:** 
+
+
+### Day 4: Enero 31, 2021
+
+**Today's Progress**: Adding some dialogs to Revit Plugin
+
+**Thoughts:** Understanding how to use WFP
+
+**Link to work:** https://twitter.com/GermanARojasBIM/status/1355916762949312515
